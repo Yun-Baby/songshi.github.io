@@ -1,3 +1,17 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Songshi Dou</h1>
+      <p><b>M.S. Candidate</b></p>
+      <p><b>School of Automation, Beijing Institute of Technology</b></p>
+      <p><b>Email: songshidou@bit.edu.cn</b></p>
+      <p><b>Research interests: Software-Defined Networking (SDN), Network Functions Virtualization (NFV), QUIC</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 ## Education
 
@@ -9,17 +23,3 @@
 
 ## Talks and Presentations
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-    </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>

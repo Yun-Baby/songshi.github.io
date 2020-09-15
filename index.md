@@ -15,7 +15,7 @@
 
 ## Education
 
-# Beijing Institute of Technology
+### Beijing Institute of Technology
 
 ## Selected Publications
 
